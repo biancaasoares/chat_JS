@@ -60,7 +60,7 @@ const usuarios= [
         nome: 'golden retriever',
         imagem: 'golden',
         texto: 'Vamos passear!!',
-        tempo: 'agora',
+        tempo: '🟢agora',
         mensagens: '20',
     },
 
@@ -68,7 +68,7 @@ const usuarios= [
         nome: 'husky',
         imagem: 'husky',
         texto: 'e o meu petisco?!!',
-        tempo: 'Há 30 minutos',
+        tempo: '🟢Há 30 minutos',
         mensagens: '1',
     },
 
@@ -76,7 +76,7 @@ const usuarios= [
         nome: 'pinscher',
         imagem: 'pinscher',
         texto: 'já me deu ração hoje?!',
-        tempo: 'Há 3 horas',
+        tempo: '🟢Há 3 horas',
         mensagens: '7'
     },
 
@@ -84,7 +84,7 @@ const usuarios= [
         nome: 'yorkshire',
         imagem: 'yorkshire',
         texto: ' vou tomar banho hoje???',
-        tempo: 'Há 8 horas',
+        tempo: '🟢Há 8 horas',
         mensagens: '50'
     },
 
